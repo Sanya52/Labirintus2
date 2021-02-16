@@ -1,0 +1,6 @@
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\11.E\Horváth Sándor\Komplex prog\labirintus\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
